@@ -1,0 +1,58 @@
+[
+    {
+        "scheme_name": "Gruha Lakshmi Scheme",
+        "eligibility": "Women head of family in Karnataka",
+        "how_to_apply": "Apply via Seva Sindhu portal",
+        "documents_required": [
+            "Aadhaar",
+            "Ration Card",
+            "Bank Details"
+        ],
+        "official_link": "https://sevasindhu.karnataka.gov.in",
+        "short_info": "Monthly ₹2000 financial support to women heads."
+    },
+    {
+        "scheme_name": "Anna Bhagya Scheme",
+        "eligibility": "BPL families in Karnataka",
+        "how_to_apply": "Automatic through ration card",
+        "documents_required": [
+            "Ration Card",
+            "Aadhaar"
+        ],
+        "official_link": "https://ahara.kar.nic.in",
+        "short_info": "Free rice distribution to poor families."
+    },
+    {
+        "scheme_name": "Vajpayee Arogyasri Scheme",
+        "eligibility": "BPL card holders",
+        "how_to_apply": "Hospital enrollment",
+        "documents_required": [
+            "BPL Card",
+            "Aadhaar"
+        ],
+        "official_link": "https://karunadu.karnataka.gov.in",
+        "short_info": "Free medical treatment scheme."
+    },
+    {
+        "scheme_name": "Yuva Nidhi Scheme",
+        "eligibility": "Unemployed graduates/diploma holders",
+        "how_to_apply": "Apply via Karnataka govt portal",
+        "documents_required": [
+            "Degree Certificate",
+            "Aadhaar",
+            "Bank Details"
+        ],
+        "official_link": "https://karnataka.gov.in",
+        "short_info": "Unemployment allowance scheme."
+    },
+    {
+        "scheme_name": "Shakti Scheme",
+        "eligibility": "Women residents of Karnataka",
+        "how_to_apply": "Use valid ID in buses",
+        "documents_required": [
+            "Aadhaar"
+        ],
+        "official_link": "https://ksrtc.in",
+        "short_info": "Free bus travel for women."
+    }
+]
