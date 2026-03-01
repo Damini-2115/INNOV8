@@ -1,0 +1,1202 @@
+[
+    {
+        "scheme_name": "State Bank of India Financial Inclusion & Welfare Scheme",
+        "bank_name": "State Bank of India",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "State Bank of India offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Punjab National Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Punjab National Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Punjab National Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Bank of Baroda Financial Inclusion & Welfare Scheme",
+        "bank_name": "Bank of Baroda",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Bank of Baroda offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Canara Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Canara Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Canara Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Union Bank of India Financial Inclusion & Welfare Scheme",
+        "bank_name": "Union Bank of India",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Union Bank of India offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Bank of India Financial Inclusion & Welfare Scheme",
+        "bank_name": "Bank of India",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Bank of India offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Indian Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Indian Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Indian Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Central Bank of India Financial Inclusion & Welfare Scheme",
+        "bank_name": "Central Bank of India",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Central Bank of India offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Indian Overseas Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Indian Overseas Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Indian Overseas Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "UCO Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "UCO Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "UCO Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Bank of Maharashtra Financial Inclusion & Welfare Scheme",
+        "bank_name": "Bank of Maharashtra",
+        "bank_state": "Maharashtra",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Bank of Maharashtra offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Punjab & Sind Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Punjab & Sind Bank",
+        "bank_state": "Punjab",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Punjab"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Punjab & Sind Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "HDFC Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "HDFC Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "HDFC Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "ICICI Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "ICICI Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "ICICI Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Axis Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Axis Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Axis Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Kotak Mahindra Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Kotak Mahindra Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Kotak Mahindra Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "IndusInd Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "IndusInd Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "IndusInd Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "IDBI Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "IDBI Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "IDBI Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Yes Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Yes Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Yes Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Federal Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Federal Bank",
+        "bank_state": "Kerala",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Kerala"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Federal Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "South Indian Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "South Indian Bank",
+        "bank_state": "Kerala",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Kerala"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "South Indian Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Karnataka Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Karnataka Bank",
+        "bank_state": "Karnataka",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Karnataka"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Karnataka Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Karur Vysya Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Karur Vysya Bank",
+        "bank_state": "Tamil Nadu",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Tamil Nadu"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Karur Vysya Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "City Union Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "City Union Bank",
+        "bank_state": "Tamil Nadu",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Tamil Nadu"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "City Union Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "RBL Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "RBL Bank",
+        "bank_state": "Maharashtra",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "RBL Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Bandhan Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Bandhan Bank",
+        "bank_state": "West Bengal",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Bandhan Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "IDFC First Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "IDFC First Bank",
+        "bank_state": "All India",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "IDFC First Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "DCB Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "DCB Bank",
+        "bank_state": "Maharashtra",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "DCB Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Jammu & Kashmir Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Jammu & Kashmir Bank",
+        "bank_state": "Jammu & Kashmir",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Jammu & Kashmir"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Jammu & Kashmir Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Karnataka Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Karnataka Gramin Bank",
+        "bank_state": "Karnataka",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Karnataka"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Karnataka Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Maharashtra Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Maharashtra Gramin Bank",
+        "bank_state": "Maharashtra",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Maharashtra Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Kerala Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Kerala Gramin Bank",
+        "bank_state": "Kerala",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Kerala"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Kerala Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Tamil Nadu Grama Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Tamil Nadu Grama Bank",
+        "bank_state": "Tamil Nadu",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Tamil Nadu"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Tamil Nadu Grama Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Andhra Pragathi Grameena Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Andhra Pragathi Grameena Bank",
+        "bank_state": "Andhra Pradesh",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Andhra Pradesh"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Andhra Pragathi Grameena Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Telangana Grameena Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Telangana Grameena Bank",
+        "bank_state": "Telangana",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Telangana"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Telangana Grameena Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Baroda Rajasthan Kshetriya Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Baroda Rajasthan Kshetriya Gramin Bank",
+        "bank_state": "Rajasthan",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Rajasthan"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Baroda Rajasthan Kshetriya Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Uttar Bihar Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Uttar Bihar Gramin Bank",
+        "bank_state": "Bihar",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Bihar"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Uttar Bihar Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Madhya Pradesh Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Madhya Pradesh Gramin Bank",
+        "bank_state": "Madhya Pradesh",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Madhya Pradesh"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Madhya Pradesh Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Chhattisgarh Rajya Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Chhattisgarh Rajya Gramin Bank",
+        "bank_state": "Chhattisgarh",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Chhattisgarh"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Chhattisgarh Rajya Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Odisha Gramya Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Odisha Gramya Bank",
+        "bank_state": "Odisha",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Odisha"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Odisha Gramya Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Assam Gramin Vikash Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Assam Gramin Vikash Bank",
+        "bank_state": "Assam",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Assam"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Assam Gramin Vikash Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Tripura Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Tripura Gramin Bank",
+        "bank_state": "Tripura",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Tripura"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Tripura Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Nagaland Rural Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Nagaland Rural Bank",
+        "bank_state": "Nagaland",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Nagaland"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Nagaland Rural Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Meghalaya Rural Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Meghalaya Rural Bank",
+        "bank_state": "Meghalaya",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Meghalaya"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Meghalaya Rural Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Arunachal Pradesh Rural Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Arunachal Pradesh Rural Bank",
+        "bank_state": "Arunachal Pradesh",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Arunachal Pradesh"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Arunachal Pradesh Rural Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Manipur Rural Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Manipur Rural Bank",
+        "bank_state": "Manipur",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Manipur"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Manipur Rural Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Mizoram Rural Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Mizoram Rural Bank",
+        "bank_state": "Mizoram",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Mizoram"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Mizoram Rural Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Uttarakhand Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Uttarakhand Gramin Bank",
+        "bank_state": "Uttarakhand",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Uttarakhand"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Uttarakhand Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Himachal Pradesh Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Himachal Pradesh Gramin Bank",
+        "bank_state": "Himachal Pradesh",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Himachal Pradesh"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Himachal Pradesh Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    },
+    {
+        "scheme_name": "Jharkhand Rajya Gramin Bank Financial Inclusion & Welfare Scheme",
+        "bank_name": "Jharkhand Rajya Gramin Bank",
+        "bank_state": "Jharkhand",
+        "category": "banking_financial_services",
+        "beneficiary_category": "General Public / MSME / Farmers / Women / Senior Citizens",
+        "age_limit": "18+ years (varies by product type)",
+        "income_limit": "Depends on specific loan/deposit scheme eligibility",
+        "state_applicability": [
+            "Jharkhand"
+        ],
+        "eligibility": "Indian citizens meeting KYC norms and scheme-specific financial criteria defined by the bank and RBI guidelines.",
+        "how_to_apply": "Apply through official bank branch, bank website, or authorized digital banking platform.",
+        "documents_required": [
+            "Aadhaar Card",
+            "PAN Card",
+            "Address Proof",
+            "Income Proof (for loans)",
+            "Bank Application Form"
+        ],
+        "official_link": "https://www.rbi.org.in",
+        "verification_source": "Respective Bank Official Website / RBI Guidelines",
+        "detailed_info": "Jharkhand Rajya Gramin Bank offers structured financial inclusion and welfare-oriented banking schemes including savings accounts, loan products, MSME financing, agricultural credit, and social security-linked deposits. These schemes operate under Reserve Bank of India regulations and aim to promote financial stability, digital banking access, and credit availability for eligible individuals and businesses. Applicants must complete proper KYC verification and fulfill scheme-specific financial conditions."
+    }
+]
