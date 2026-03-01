@@ -1,0 +1,2622 @@
+[
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+        "category": "finance",
+        "beneficiary_category": "All Citizens",
+        "age_limit": "10+ years",
+        "income_limit": "No income limit",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Any Indian citizen without an active bank account.",
+        "how_to_apply": "Visit nearest bank or banking correspondent.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Mobile Number",
+            "Address Proof"
+        ],
+        "official_link": "https://pmjdy.gov.in",
+        "verification_source": "Official Government Banking Portal",
+        "short_info": "Zero balance savings account with insurance benefits.",
+        "rural_voice_response": "Yeh sarkari bank account scheme hai, aap bina paise ke account khol sakte ho.",
+        "scam_detection_keywords": [
+            "processing fee",
+            "instant approval link",
+            "unknown bank link"
+        ],
+        "risk_level": "low"
+    },
+    {
+        "scheme_name": "Ayushman Bharat PM-JAY",
+        "category": "health",
+        "beneficiary_category": "Low Income Families",
+        "age_limit": "No age limit",
+        "income_limit": "SECC eligible families",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Families listed under government health database.",
+        "how_to_apply": "Check eligibility at empanelled hospital or PMJAY website.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Ration Card",
+            "Family ID"
+        ],
+        "official_link": "https://pmjay.gov.in",
+        "verification_source": "National Health Authority",
+        "short_info": "₹5 lakh free health insurance coverage.",
+        "rural_voice_response": "Is yojana mein hospital ka kharcha sarkar deti hai agar aap eligible ho.",
+        "scam_detection_keywords": [
+            "pay registration fee",
+            "insurance activation charge"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "PM Kisan Samman Nidhi",
+        "category": "agriculture",
+        "beneficiary_category": "Farmers",
+        "age_limit": "18+",
+        "income_limit": "Small and marginal farmers",
+        "state_applicability": [
+            "All India"
+        ],
+        "eligibility": "Farmers with valid land ownership records.",
+        "how_to_apply": "Apply via PM-Kisan portal or CSC center.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Land Records",
+            "Bank Passbook"
+        ],
+        "official_link": "https://pmkisan.gov.in",
+        "verification_source": "Ministry of Agriculture",
+        "short_info": "₹6000 yearly financial assistance to farmers.",
+        "rural_voice_response": "Kisan bhaiyon ko har saal paisa milta hai agar zameen unke naam hai.",
+        "scam_detection_keywords": [
+            "extra bonus link",
+            "OTP share karo"
+        ],
+        "risk_level": "medium"
+    },
+    {
+        "scheme_name": "Mukhyamantri Ladki Bahin Yojana",
+        "category": "women_child",
+        "beneficiary_category": "Women",
+        "age_limit": "21-65 years",
+        "income_limit": "Low income families in Maharashtra",
+        "state_applicability": [
+            "Maharashtra"
+        ],
+        "eligibility": "Eligible women residents of Maharashtra.",
+        "how_to_apply": "Apply via Maharashtra government portal or local office.",
+        "documents_required": [
+            "Aadhaar Card",
+            "Domicile Certificate Maharashtra",
+            "Bank Passbook"
+        ],
+        "official_link": "https://maharashtra.gov.in",
+        "verification_source": "Maharashtra State Portal",
+        "short_info": "Financial assistance scheme for eligible women in Maharashtra.",
+        "rural_voice_response": "Yeh yojana sirf Maharashtra ki mahilaon ke liye hai.",
+        "scam_detection_keywords": [
+            "registration fee",
+            "private agent link"
+        ],
+        "risk_level": "high"
+    },
+    {
+        "scheme_name": "Kanyashree Prakalpa",
+        "category": "women_child",
+        "beneficiary_category": "Girl Students",
+        "age_limit": "13-18 years",
+        "income_limit": "WB state income criteria",
+        "state_applicability": [
+            "West Bengal"
+        ],
+        "eligibility": "Girl students studying in West Bengal schools.",
+        "how_to_apply": "Apply through school authority.",
+        "documents_required": [
+            "School ID",
+            "Aadhaar Card",
+            "Income Certificate"
+        ],
+        "official_link": "https://wb.gov.in",
+        "verification_source": "West Bengal Government Portal",
+        "short_info": "Financial aid scheme to support girls education.",
+        "rural_voice_response": "Yeh scheme West Bengal ki ladkiyon ke liye hai.",
+        "scam_detection_keywords": [
+            "direct cash link",
+            "OTP demand"
+        ],
+        "risk_level": "medium"
+    }
+]
